@@ -51,5 +51,5 @@ https://www.youtube.com/watch?v=H5JubkIy\_p8
 5. Difference between Binary Tree and Binary Search Tree  
 https://www.geeksforgeeks.org/difference-between-binary-tree-and-binary-search-tree/
 
-## Project by ##
+## Project presentation by ##
 Omowunmi Kamiludeen
